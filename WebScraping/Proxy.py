@@ -1,6 +1,7 @@
 from selenium import webdriver
 from bs4 import BeautifulSoup
 import pandas as pd
+import scrapy
 
 driver = webdriver.Chrome('C:/Users/19053/chromedriver.exe')
 
